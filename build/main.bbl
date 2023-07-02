@@ -1,0 +1,123 @@
+\begin{thebibliography}{10}
+
+\bibitem{nakamoto2008bitcoin}
+S.~Nakamoto, ``Bitcoin: A peer-to-peer electronic cash system,'' {\em
+  Decentralized Business Review}, p.~21260, 2008.
+
+\bibitem{julie2020blockchain}
+E.~G. Julie, J.~J.~V. Nayahi, and N.~Z. Jhanjhi, {\em Blockchain Technology:
+  Fundamentals, Applications, and Case Studies}.
+\newblock CRC Press, 2020.
+
+\bibitem{arapinis2019formal}
+M.~Arapinis, A.~Gkaniatsou, D.~Karakostas, and A.~Kiayias, ``A formal treatment
+  of hardware wallets,'' in {\em International Conference on Financial
+  Cryptography and Data Security}, pp.~426--445, Springer, 2019.
+
+\bibitem{9014007}
+H.~Rezaeighaleh and C.~C. Zou, ``New secure approach to backup cryptocurrency
+  wallets,'' in {\em 2019 IEEE Global Communications Conference (GLOBECOM)},
+  pp.~1--6, 2019.
+
+\bibitem{huhmo2018blockchain}
+M.~Huhmo, ``Blockchain technology: Bitcoin as a case,'' 2018.
+
+\bibitem{shaik2020securing}
+C.~Shaik, ``Securing cryptocurrency wallet seed phrase digitally with blind key
+  encryption,'' {\em International Journal on Cryptography and Information
+  Security (IJCIS)}, vol.~10, no.~4, 2020.
+
+\bibitem{ahamad2013survey}
+S.~Ahamad, M.~Nair, and B.~Varghese, ``A survey on crypto currencies,'' in {\em
+  4th International Conference on Advances in Computer Science, AETACS},
+  pp.~42--48, Citeseer, 2013.
+
+\bibitem{dai2018sblwt}
+W.~Dai, J.~Deng, Q.~Wang, C.~Cui, D.~Zou, and H.~Jin, ``Sblwt: A secure
+  blockchain lightweight wallet based on trustzone,'' {\em IEEE access},
+  vol.~6, pp.~40638--40648, 2018.
+
+\bibitem{das2019formal}
+P.~Das, S.~Faust, and J.~Loss, ``A formal treatment of deterministic wallets,''
+  in {\em Proceedings of the 2019 ACM SIGSAC Conference on Computer and
+  Communications Security}, pp.~651--668, 2019.
+
+\bibitem{jokic2019comparative}
+S.~Joki{\'c}, A.~S. Cvetkovi{\'c}, S.~Adamovi{\'c}, N.~Risti{\'c}, and
+  P.~Spalevi{\'c}, ``Comparative analysis of cryptocurrency wallets vs
+  traditional wallets,'' {\em Ekonomika}, vol.~65, no.~3, pp.~65--75, 2019.
+
+\bibitem{suratkar2020cryptocurrency}
+S.~Suratkar, M.~Shirole, and S.~Bhirud, ``Cryptocurrency wallet: A review,'' in
+  {\em 2020 4th International Conference on Computer, Communication and Signal
+  Processing (ICCCSP)}, pp.~1--7, IEEE, 2020.
+
+\bibitem{san2019side}
+M.~San~Pedro, V.~Servant, and C.~Guillemet, ``Side-channel assessment of open
+  source hardware wallets,'' {\em Cryptology ePrint Archive}, 2019.
+
+\bibitem{volotikin2018software}
+S.~Volotikin, ``Software attacks on hardware wallets,'' {\em Black Hat USA},
+  2018.
+
+\bibitem{almutairi2019usability}
+E.~Almutairi and S.~Al-Megren, ``Usability and security analysis of the keepkey
+  wallet,'' in {\em 2019 IEEE International Conference on Blockchain and
+  Cryptocurrency (ICBC)}, pp.~149--153, IEEE, 2019.
+
+\bibitem{pfeffer2021usability}
+K.~Pfeffer, A.~Mai, A.~Dabrowski, M.~Gusenbauer, P.~Schindler, E.~Weippl,
+  M.~Franz, and K.~Krombholz, ``On the usability of authenticity checks for
+  hardware security tokens,'' in {\em 30th USENIX Security Symposium (USENIX
+  Security 21)}, pp.~37--54, 2021.
+
+\bibitem{dabrowski2021better}
+A.~Dabrowski, K.~Pfeffer, M.~Reichel, A.~Mai, E.~R. Weippl, and M.~Franz,
+  ``Better keep cash in your boots-hardware wallets are the new single point of
+  failure,'' in {\em Proceedings of the 2021 ACM CCS Workshop on Decentralized
+  Finance and Security}, pp.~1--8, 2021.
+
+\bibitem{ledgerdata2}
+R.~Team, ``Hacking the ultra-secure hardware cryptowallet.''
+  \url{https://www.riscure.com/blog/hacking-ultra-secure-hardware-cryptowallet},
+  Aug. 2018.
+
+\bibitem{timon2019non}
+B.~Timon, ``Non-profiled deep learning-based side-channel attacks with
+  sensitivity analysis,'' {\em IACR Transactions on Cryptographic Hardware and
+  Embedded Systems}, pp.~107--131, 2019.
+
+\bibitem{hospodar2011machine}
+G.~Hospodar, B.~Gierlichs, E.~De~Mulder, I.~Verbauwhede, and J.~Vandewalle,
+  ``Machine learning in side-channel analysis: a first study,'' {\em Journal of
+  Cryptographic Engineering}, vol.~1, no.~4, pp.~293--302, 2011.
+
+\bibitem{ledgerdata1}
+Ledger, ``Firmware 1.4: deep dive into three vulnerabilities which have been
+  fixed.'' \url{https://www.ledger.com/firmware-1-4-deep-dive-security-fixes},
+  Mar. 2018.
+
+\bibitem{trezordata1}
+Trezor, ``Trezor one: Firmware update 1.6.3.''
+  \url{https://blog.trezor.io/trezor-one-firmware-update-1-6-3-73894c0506d},
+  Aug. 2018.
+
+\bibitem{keepkeystackoverflow}
+InvdBlog, ``Security updates in keepkey firmware 7.1.0.''
+  \url{https://blog.inhq.net/posts/keepkey-CVE-2021-31616/}, Apr. 2021.
+
+\bibitem{bufferoverflow}
+Trezor, ``Security updates in trezor one firmware 1.6.2.''
+  \url{https://blog.trezor.io/details-about-the-security-updates-intrezor-one-firmware-1-6-2-a3b25b668e98},
+  June, 2018.
+
+\bibitem{usbleak}
+Trezor, ``Security updates in trezor one firmware 1.7.2.''
+  \url{https://blog.trezor.io/details-about-the-security-updates-intrezor-one-firmware-1-7-2-3c97adbf121e},
+  Dec. 2018.
+
+\bibitem{kocher1999differential}
+P.~Kocher, J.~Jaffe, and B.~Jun, ``Differential power analysis,'' in {\em
+  Annual international cryptology conference}, pp.~388--397, Springer, 1999.
+
+\end{thebibliography}
